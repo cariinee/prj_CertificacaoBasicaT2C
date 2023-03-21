@@ -21264,9 +21264,9 @@
     "restore": {
       "projectUniqueName": "prj_CartificacaoBasicaT2C",
       "projectName": "prj_CartificacaoBasicaT2C",
-      "projectPath": "C:\\Users\\carine.souza\\OneDrive - T2C CONSULTORIA LTDA\\Documentos\\UiPath\\validando\\prj_CertificacaoBasicaT2C\\.local",
+      "projectPath": "C:\\Users\\carine.souza\\OneDrive - T2C CONSULTORIA LTDA\\Documentos\\UiPath\\prj_CertificacaoBasicaT2C\\.local",
       "packagesPath": "C:\\Users\\carine.souza\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\carine.souza\\OneDrive - T2C CONSULTORIA LTDA\\Documentos\\UiPath\\validando\\prj_CertificacaoBasicaT2C\\.local",
+      "outputPath": "C:\\Users\\carine.souza\\OneDrive - T2C CONSULTORIA LTDA\\Documentos\\UiPath\\prj_CertificacaoBasicaT2C\\.local",
       "fallbackFolders": [
         "C:\\Users\\carine.souza\\AppData\\Local\\UiPath\\NugetFallbackFolder"
       ]
