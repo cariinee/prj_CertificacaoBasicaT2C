@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rcV6G7X3+il0BOQWfGEbZfejD0W55/W7o5r5mUh0NBJ5Q/8uFBdTm7L41qtid4iuA/06bAH30AAYw8iyXVGaYQ==",
+  "dgSpecHash": "mSoRTIK0QUR+UJY9MGQBYztWLh14qplIXce7A+itjvkvzJq/xttBoz6PhfeKkdgBwU3dyTUsq7usWtIj1LsmSw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\carine.souza\\OneDrive - T2C CONSULTORIA LTDA\\Documentos\\UiPath\\prj_CartificacaoBasicaT2C\\.local\\",
+  "projectFilePath": "C:\\Users\\carine.souza\\OneDrive - T2C CONSULTORIA LTDA\\Documentos\\UiPath\\validando\\prj_CertificacaoBasicaT2C\\.local\\",
   "expectedPackageFiles": [
     "C:\\Users\\carine.souza\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
     "C:\\Users\\carine.souza\\.nuget\\packages\\azure.core\\1.18.0\\azure.core.1.18.0.nupkg.sha512",
@@ -151,7 +151,7 @@
     "C:\\Users\\carine.souza\\.nuget\\packages\\runtime.win7-x64.runtime.native.system.io.compression\\4.3.0\\runtime.win7-x64.runtime.native.system.io.compression.4.3.0.nupkg.sha512",
     "C:\\Users\\carine.souza\\.nuget\\packages\\runtime.win7.system.private.uri\\4.3.0\\runtime.win7.system.private.uri.4.3.0.nupkg.sha512",
     "C:\\Users\\carine.souza\\.nuget\\packages\\sharpziplib\\1.3.3\\sharpziplib.1.3.3.nupkg.sha512",
-    "C:\\Users\\carine.souza\\AppData\\Local\\UiPath\\NugetFallbackFolder\\system.activities.viewmodels\\1.0.0-20230306.1\\system.activities.viewmodels.1.0.0-20230306.1.nupkg.sha512",
+    "C:\\Users\\carine.souza\\.nuget\\packages\\system.activities.viewmodels\\1.0.0-20230306.1\\system.activities.viewmodels.1.0.0-20230306.1.nupkg.sha512",
     "C:\\Users\\carine.souza\\.nuget\\packages\\system.appcontext\\4.3.0\\system.appcontext.4.3.0.nupkg.sha512",
     "C:\\Users\\carine.souza\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
     "C:\\Users\\carine.souza\\.nuget\\packages\\system.codedom\\5.0.0\\system.codedom.5.0.0.nupkg.sha512",
@@ -268,7 +268,7 @@
     "C:\\Users\\carine.souza\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\carine.souza\\AppData\\Local\\UiPath\\NugetFallbackFolder\\uipath\\23.2.53.53687-preview\\uipath.23.2.53.53687-preview.nupkg.sha512",
     "C:\\Users\\carine.souza\\.nuget\\packages\\uipath.activities.runtimegovernance\\1.1.6\\uipath.activities.runtimegovernance.1.1.6.nupkg.sha512",
-    "C:\\Users\\carine.souza\\AppData\\Local\\UiPath\\NugetFallbackFolder\\uipath.codedworkflows\\23.2.0-alpha.3503132\\uipath.codedworkflows.23.2.0-alpha.3503132.nupkg.sha512",
+    "C:\\Users\\carine.souza\\.nuget\\packages\\uipath.codedworkflows\\23.2.0-alpha.3503132\\uipath.codedworkflows.23.2.0-alpha.3503132.nupkg.sha512",
     "C:\\Users\\carine.souza\\.nuget\\packages\\uipath.connectionclient\\1.4.1\\uipath.connectionclient.1.4.1.nupkg.sha512",
     "C:\\Users\\carine.souza\\AppData\\Local\\UiPath\\NugetFallbackFolder\\uipath.excel.activities\\2.19.0-preview\\uipath.excel.activities.2.19.0-preview.nupkg.sha512",
     "C:\\Users\\carine.souza\\AppData\\Local\\UiPath\\NugetFallbackFolder\\uipath.imageprocessing\\22.12.0-preview\\uipath.imageprocessing.22.12.0-preview.nupkg.sha512",
